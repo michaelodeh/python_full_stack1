@@ -1,0 +1,27 @@
+body,
+html {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.header {
+  background-color: rgb(6, 5, 5);
+  color: white;
+}
+
+.content-wrapper {
+  background-color: grey !important;
+  border: darkred solid 5px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+
+  margin: 20px 0;
+}
+.footer {
+  background-color: rgb(6, 5, 5);
+  color: white;
+}
+.content {
+  color: darkred;
+}

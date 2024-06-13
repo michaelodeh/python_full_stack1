@@ -25,3 +25,10 @@ html {
 .content {
   color: darkred;
 }
+
+.logo{
+  font-size: x-large;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
+}

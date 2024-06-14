@@ -2,6 +2,8 @@ body,
 html {
   padding: 0 !important;
   margin: 0 !important;
+  overflow-x: hidden;
+  
 }
 
 .header {
@@ -23,8 +25,17 @@ html {
   color: white;
 }
 .content {
-  color: darkred;
+
+  text-align: justify;
+ 
 }
+.main{
+height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+
 
 .logo{
   font-size: x-large;
